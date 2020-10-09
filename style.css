@@ -1,0 +1,43 @@
+#socialMedia{
+    /* display: flex;
+    justify-content: flex-end; */
+    float: right;
+    position: relative;
+    bottom: 115px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+header img{
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 52px;
+    bottom: 70px;
+}
+
+header h2{
+    margin-bottom: 0px;
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+}
+
+header p{
+    margin-top: 0px;
+}
+
+.printbutton{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.subheading{
+    font-family: 'Oswald', sans-serif;
+}
